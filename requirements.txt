@@ -1,0 +1,4 @@
+channels
+django>3.0,<4.0
+daphne
+channels_redis
